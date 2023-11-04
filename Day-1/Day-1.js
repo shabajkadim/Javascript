@@ -33,7 +33,7 @@ console.log(`5`+ `8`)
 console.log(typeof( 5+3))
 console.log(typeof(2+6) )
 console.log(typeof(2+1))
-console.log(typeof(2+6) )
+console.log(typeof(2+6) )-
 
 console.log("shahabaj")
 console.log("shahabaj")
