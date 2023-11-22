@@ -1,0 +1,74 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#screen{
+    width: 100%;
+    /* border: 2px solid red; */
+}
+.body{
+    width: 50%;
+    margin: auto;
+    height: 650px;
+    border: 2px solid rgb(27, 141, 141);
+    background-color: rgb(27, 141, 141);
+    border-radius: 15px;
+}
+.reg-h1{
+    width: 70%;
+    height: 70px;
+    padding-top: 10px;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background-color: white; 
+}
+.reg-form{
+    width: 62%;
+    /* border: 2px solid black; */
+    margin: auto;
+    height: 450px;
+    border-radius:15px;
+    padding-left: 50px;
+    font-size: 30px;
+    background-color: white; 
+    padding-top: 20px;
+}
+#name{
+    width: 80%;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    background-color: white;
+    border-bottom: 2px solid rgb(193,193,193);
+}
+#email{
+    width: 80%;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    border-bottom: 2px solid rgb(193,193,193);
+    background-color: white;
+}
+#password{
+    width: 80%;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    border-bottom: 2px solid rgb(193,193,193);
+    background-color: white;
+}
+.sign-up{
+    width: 80%;
+    height: 50px;
+    border-radius: 15px;
+    background-color: white;
+    font-size: 20px;
+    border:2px solid rgb(193,193,193) ;
+}

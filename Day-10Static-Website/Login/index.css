@@ -1,0 +1,75 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.body{
+    width: 100%;
+    border: 2px solid black;
+    background-color: white;
+}
+.login-page{
+    width: 50%;
+    height: 600px;
+    /* border:2px solid red ; */
+    text-align: center;
+    margin:auto;
+    /* background-color: rgb(61,101,202); */
+}
+.login{
+    /* border: 2px solid red; */
+    width: 72%;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 20px;
+    height: 70px;
+    border-bottom:5px solid white;
+    background-color: rgb(61,101,202);
+    color:gold;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.login-f{
+    padding: 40px;
+    /* border: 2px solid red; */
+    height: 340px;
+    width: 60%;
+    margin: auto;
+    font-size: 30px;
+    text-align: left;
+    background-color: rgb(61,101,202);
+    border-radius: 15px;
+}
+
+#email{
+    border: none;
+    /* border-bottom: 2px solid red; */
+    width: 100%;
+    height: 50px;
+    outline: none;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+
+#password{
+    height: 50px;
+    border: none;
+    /* border-bottom: 2px solid red; */
+    width: 100%;
+    outline: none;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+.submit{
+    width: 100%;
+    height: 50px;
+    border-radius:25px;
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    
+
+}
